@@ -1,68 +1,67 @@
-![Meteora](thumbnail.png)
+<h1 align="center"> Projeto Meteora </h1>
 
-# Meteora - E-commerce de Moda
+<div align="center">
 
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
+  <a href="https://github.com/coelhoalexandre/projeto-alura-meteora/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Em progresso-blue.svg" alt="Em Progresso">
 
-![GIF da aplicação em execução](meteora-app.gif)
+</div>
 
-## 🔨 Funcionalidades do projeto
+## Sumário
 
-Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcionalidades:
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Funcionalidades do Projeto](#funcionalidades-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
+- [Layouts](#layouts)
+  - [Desktop Layout](#desktop-layout)
+  - [Tablet Layout](#tablet-layout)
+  - [Mobile Layout](#mobile-layout)
+- [Adaptações](#adaptações)
+- [Autor](#autor)
 
-- Adicionar itens ao carrinho
-- Remover itens do carrinho
-- Visualizar a página do carrinho
-- Deletar itens do carrinho
+## Sobre o Projeto
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
 
-## ✔️ Técnicas e tecnologias utilizadas
 
-O projeto Meteora utiliza as seguintes tecnologias e bibliotecas:
+## Objetivos do Projeto
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `JavaScript` - Linguagem de programação principal
-- `Context API` - Para gerenciamento de estado
-- `useReducer` - Para controle de estado
-- `useMemo` - Para otimização de desempenho
-- `Bootstrap` - Framework de design e componentes
 
-## 🛠️ Abrir e rodar o projeto
 
-Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
+## Funcionalidades do Projeto
 
-1. Certifique-se de ter o Node.js instalado em sua máquina.
 
-2. Baixe o repositório do projeto:
 
-3. Extraia os arquivos para uma pasta de sua preferência.
+## Tecnolgias Utilizadas
 
-4. Navegue até a pasta em questão via terminal (cmd):
+1. HTML
+2. CSS
+3. JS
+4. React
 
-```bash
-cd repo-meteora
-```
+## Layouts
 
-5. Instale as dependências usando o npm:
+### Desktop Layout
 
-```bash
-npm install
-```
+### Tablet Layout
 
-6. Inicie o projeto localmente:
+### Mobile Layout
 
-```bash
-npm run dev
-```
+## Adaptações
 
-7. Abra seu navegador e acesse a url exibida no seu terminal para visualizar o projeto.
+## Autor
 
-## 📚 Mais informações do projeto
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
 
-O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
+Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
+<br>
 
-Aproveite o desenvolvimento e aprimoramento do Meteora!
+<br>
+
+<div align="center">
+
+<a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
+<a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
