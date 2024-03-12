@@ -5,10 +5,11 @@ import ValorFormatado from "@/components/ValorFormatado";
 
 const ItemCarrinhoSuspenso = ({
   itemCarrinho,
-  removerProdutoCarrinho,
   adicionarProduto,
   removerProduto,
+  removerProdutoCarrinho,
 }) => {
+  
   return (
     <li>
       <>

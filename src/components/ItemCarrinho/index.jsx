@@ -6,9 +6,9 @@ import InfoItemCarrinho from "./InfoItemCarrinho";
 
 const ItemCarrinho = ({
   itemCarrinho,
-  removerProdutoCarrinho,
   adicionarProduto,
   removerProduto,
+  removerProdutoCarrinho,
 }) => {
   return (
     <li key={itemCarrinho.id}>
