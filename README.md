@@ -13,23 +13,24 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-
+Projeto realizado com a instrução de [**Neilton Seguins**](https://github.com/NeiltonSeguins) no curso [React: gerencie estados globalmente com Context API](https://cursos.alura.com.br/course/react-gerencie-estados-globalmente-context-api).
 
 ## Objetivos do Projeto
 
-
+- Identificar os conceitos da Context API;
+- Aplicar o Context API para evitar o "prop drilling";
+- Criar contextos em projeto react, permitindo o compartilhamento de estados globais;
+- Combinar a Context API com o useReducer para gerenciar estados complexos.
 
 ## Funcionalidades do Projeto
 
-
+- **Adicionar ao carrinho:** Adiciona o respectivo item no carrinho. Clicar mais de uma vez fará a quantidade de itens aumentar.
+- **Icone Carrinho:** Abre uma parte que mostra o carrinho ainda na página. Os itens são listados com suas respectivas quantidades.
+- **Carrinho:** Redireciona para a página do carrinho. Vai listar os itens dentro do carrinho e a quantidade de produtos e valor total será exibido no sumario.
 
 ## Tecnolgias Utilizadas
 
@@ -40,13 +41,11 @@
 
 ## Layouts
 
-### Desktop Layout
+**1280px:**
 
-### Tablet Layout
+**Home:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/meteora-home-1280px.jpg
 
-### Mobile Layout
-
-## Adaptações
+**Carrinho:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/meteora-carrinho-1280px.jpg
 
 ## Autor
 
